@@ -1,12 +1,5 @@
 let clicker = 0;
 
-var passwort = prompt("Gebe dein Passwort ein: ");
-
-while(passwort != "test321") {
-	alert("Passwort falsch!");
-	passwort = prompt("Gebe dein Passwort ein: ");
-}
-
 function Clicker() {
 	
 	clicker = clicker + 1;

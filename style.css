@@ -1,24 +1,78 @@
+body {
+    margin-left: 20vw;
+    margin-right: 20vw;
+    background-color: #5f9ea0;
+}
+
 #button {
     background-color: #ddd;
     display: inline-block;
     padding: 0.4em 0.8em;
     margin-bottom: 1em;
+    box-sizing: border-box;
+    border-radius: 30px 30px 30px 30px;
 }
 #button:hover {
     cursor: pointer;
 }
 #clicker {
     min-height: 1em;
-    padding: 0.3em;
+    padding: 0.4em;
+    height: 1vw;
     background-color: #ddd;
+    box-sizing: border-box;
+    border-radius: 40px 40px 40px 40px;
 }
 #cps {
     min-height: 1em;
-    padding: 0.3em;
+    padding: 0.4em;
+    height: 1vw;
     background-color: #ddd;
+    box-sizing: border-box;
+    border-radius: 40px 40px 40px 40px;
 }
 
 p {
     font-weight: bold;
     font-size: 1vw;
+}
+
+#index-body {
+    margin-top: 20vw;
+}
+
+#smallbox1{
+    font-weight: bold;
+    text-decoration: none;
+    padding: 9vw;
+    background-color: #418a8d;
+    box-sizing: border-box;
+    border-radius: 1vw;
+    font-size: 3vw;
+    color: black;
+    transition: 0.3s;
+}
+
+#smallbox1:hover {
+    font-size: 9.5vw;
+    font-size: 3.5vw;
+    background-color: #2b7375;
+}
+
+#smallbox2 {
+    font-weight: bold;
+    text-decoration: none;
+    padding: 9vw;
+    background-color: #418a8d;
+    box-sizing: border-box;
+    border-radius: 1vw;
+    font-size: 3vw;
+    color: black;
+    transition: 0.3s;
+}
+
+#smallbox2:hover {
+    font-size: 9.5vw;
+    font-size: 3.5vw;
+    background-color: #2b7375;
 }

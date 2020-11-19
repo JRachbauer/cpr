@@ -1,0 +1,69 @@
+body {
+    margin-left: 20vw;
+    margin-right: 20vw;
+    background-color: cadetblue;
+}
+
+#button {
+    background-color: #ddd;
+    display: inline-block;
+    padding: 0.4em 0.8em;
+    margin-bottom: 1em;
+    box-sizing: border-box;
+    border-radius: 30px 30px 30px 30px;
+}
+#button:hover {
+    cursor: pointer;
+}
+#erg {
+    min-height: 1em;
+    padding: 0.3em;
+    background-color: #ddd;
+}
+
+#erg2 {
+    min-height: 1em;
+    padding: 0.3em;
+    background-color: #ddd;
+}
+
+#erg3 {
+    min-height: 1em;
+    padding: 0.3em;
+    background-color: #ddd;
+}
+
+#pasch {
+    min-height: 1em;
+    padding: 0.3em;
+    background-color: #ddd;
+}
+
+#erg4 {
+    min-height: 1em;
+    padding: 0.3em;
+    background-color: #ddd;
+}
+
+#erg5 {
+    min-height: 1em;
+    padding: 0.3em;
+    background-color: #ddd;
+}
+
+#erg6 {
+    min-height: 1em;
+    padding: 0.3em;
+    background-color: #ddd;
+}
+
+#pasch1 {
+    min-height: 1em;
+    padding: 0.3em;
+    background-color: #ddd;
+}
+
+p {
+    font-weight: bold;
+    font-size: 1vw;
+}
